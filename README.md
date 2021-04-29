@@ -4,7 +4,7 @@
 
 - https://elijas.github.io/statistikos-laboratorinis-darbas/
 - https://elijas.github.io/diskreciu-strukturu-statistines-analizes-laboratorinis/index.html
-- - https://nbviewer.jupyter.org/github/Elijas/data-classification-methods-lab/blob/master/lab.ipynb
+- https://nbviewer.jupyter.org/github/Elijas/data-classification-methods-lab/blob/master/lab.ipynb
 
 ### Kiti
 
