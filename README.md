@@ -10,9 +10,15 @@
 - https://nbviewer.jupyter.org/github/Elijas/optimization-methods-lab/blob/master/lab.ipynb
 - https://nbviewer.jupyter.org/github/Elijas/bayes-intro-lab/blob/master/lab.ipynb
 
-## Juodraščiai
+
+<details>
+  <summary>Juodraščiai</summary>
+  
 - https://github.com/Elijas/discrete-mathematics-lab
 - https://nbviewer.jupyter.org/github/Elijas/regression-analysis-lab/blob/master/lab2.ipynb
 - https://nbviewer.jupyter.org/github/Elijas/graph-theory-lab/blob/master/lab1.ipynb 
 - https://nbviewer.jupyter.org/github/Elijas/graph-theory-lab/blob/master/lab2.ipynb 
 - https://nbviewer.jupyter.org/github/Elijas/graph-theory-lab/blob/master/lab3.ipynb
+
+
+</details>
